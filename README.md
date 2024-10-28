@@ -1,6 +1,7 @@
-# HammerBar - A Windows-Like Taskbar for MacOS
+# Dark HammerBar - A Windows-Like Taskbar for MacOS
 
-HammerBar is a "Spoon" for [HammerSpoon](https://www.hammerspoon.org) that displays
+This "Spoon" for ["HammerSpoon"](https://www.hammerspoon.org) is based off of glenreesor/Hammerbar.
+This version is a modification that allows dark mode. This is a "spoon" that displays
 a clickable taskbar along the bottom of your screen with support for app launchers
 and "widgets" that can show the output of arbitrary lua functions.
 
