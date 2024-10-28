@@ -1,5 +1,4 @@
-# HammerBar Changelog
-# v0.9 - v1.0.2
+# HammerBar Changelog | v0.9 - v1.0.2
 
 ## v1.0.2 (2024-10-26)
 
