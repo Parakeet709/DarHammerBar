@@ -1,3 +1,6 @@
+# HammerBar Changelog
+# v0.9 - v1.0.2
+
 ## v1.0.2 (2024-10-26)
 
 - No changes from v1.0.2-beta
